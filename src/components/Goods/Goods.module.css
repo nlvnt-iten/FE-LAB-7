@@ -1,0 +1,27 @@
+.goods {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.item {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.itemImage {
+    max-width: 100px;
+    height: auto;
+}
+
+.itemName {
+    font-size: 1.2em;
+    margin: 5px 0;
+}
+
+.itemPrice {
+    font-size: 1em;
+    color: #666;
+}
