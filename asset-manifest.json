@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FE-LAB-7/static/css/main.a8e81d5a.css",
+    "main.js": "/FE-LAB-7/static/js/main.02834618.js",
+    "static/js/787.c641f683.chunk.js": "/FE-LAB-7/static/js/787.c641f683.chunk.js",
+    "index.html": "/FE-LAB-7/index.html",
+    "main.a8e81d5a.css.map": "/FE-LAB-7/static/css/main.a8e81d5a.css.map",
+    "main.02834618.js.map": "/FE-LAB-7/static/js/main.02834618.js.map",
+    "787.c641f683.chunk.js.map": "/FE-LAB-7/static/js/787.c641f683.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8e81d5a.css",
+    "static/js/main.02834618.js"
+  ]
+}
